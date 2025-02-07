@@ -15,6 +15,7 @@
 
 <br>
 
+![img](https://github.com/nocturnalllll/iOS-Clipboard/blob/main/images/IMG_3214.png?raw=true)
 ### コピー
 クリップボードからコピーしたテキストをリストの先頭に移動。これにより、よく使う項目ほどリストの上位に表示されます。
 
