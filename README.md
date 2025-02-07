@@ -13,7 +13,11 @@
 
 >### 機能説明
 
-<br>
+起動するとコピーしてきたテキストがこのショートカットのリストの最初の項目と一致しない場合、新たに保存します
+![img](https://github.com/nocturnalllll/ios_Clipboard/blob/main/images/IMG_3215.jpeg?raw=true)
+
+
+
 
 ![img](https://github.com/nocturnalllll/iOS-Clipboard/blob/main/images/IMG_3214.png?raw=true)
 ### コピー
